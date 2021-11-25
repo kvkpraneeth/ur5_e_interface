@@ -11,3 +11,7 @@
 !ur_e_description/**
 !ur_e_gazebo
 !ur_e_gazebo/**
+!ur5e
+!ur5e/**
+!ur5_e_moveit_config
+!ur5_e_moveit_config/**

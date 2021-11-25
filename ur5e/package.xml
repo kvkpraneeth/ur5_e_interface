@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+
+  <name>ur5e</name>
+  <version>0.0.1</version>
+  
+  <description>Interface Packages for ur5e</description>
+  
+  <maintainer email="praneeth.pep@gmail.com">Kvk Praneeth</maintainer>
+  <author email="praneeth.pep@gmail.com">Kvk Praneeth</author>
+  
+  <license>Apache 2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
