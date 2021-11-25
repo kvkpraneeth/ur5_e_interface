@@ -1,0 +1,13 @@
+
+*
+
+!.gitignore
+!README.md
+!Universal_Robots_ROS_Driver
+!Universal_Robots_ROS_Driver/**
+!Universal_Robots_ROS_scaled_controllers
+!Universal_Robots_ROS_scaled_controllers/**
+!ur_e_description
+!ur_e_description/**
+!ur_e_gazebo
+!ur_e_gazebo/**
