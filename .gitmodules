@@ -1,0 +1,9 @@
+[submodule "ur_msgs"]
+	path = ur_msgs
+	url = https://github.com/destogl/ur_msgs.git
+[submodule "Universal_Robots_ROS2_Driver"]
+	path = Universal_Robots_ROS2_Driver
+	url = https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver.git
+[submodule "ros2_control_demos"]
+	path = ros2_control_demos
+	url = https://github.com/ros-controls/ros2_control_demos.git
